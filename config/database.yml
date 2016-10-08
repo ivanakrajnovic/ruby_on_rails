@@ -24,4 +24,8 @@ production:
   adapter: postgresql
   pool: 5
   timeout: 5000
-  database: my_database_production_ivana
+  username: mytricratcaxwk
+  password: hPAlPbJ5T8V5EwYOFTQAhO9ieC
+  database: dbu8lc14e27so2
+  host: ec2-54-247-123-121.eu-west-1.compute.amazonaws.com
+  port: 5432
